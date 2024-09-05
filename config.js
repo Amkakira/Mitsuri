@@ -14,22 +14,22 @@ global.authFile = `Session`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['201145624848', '𝗦𝗔𝗬𝗘𝗗-𝗦𝗛𝗔𝗪𝗔𝗭𝗔', true]
+  ['201020639057', '201020639057', true]
 ];
 
-global.ownername = '𝚂𝙰𝚈𝙴𝙳-𝚂𝙷𝙰𝚆𝙰𝚉𝙰';
-global.ownernumber = '201145624848';
-global.myid = '201145624848@s.whatsapp.net';
+global.ownername = 'Akira';
+global.ownernumber = '201020639057';
+global.myid = '201020639057@s.whatsapp.net';
   
-global.suittag = ['201145624848', '201204885212'];
-global.prems = ['201145624848', '201204885212'];
+global.suittag = ['201020639057', '201020639057'];
+global.prems = ['201020639057', '201020639057'];
 
-global.packname = '𝗦𝗔𝗬𝗘𝗗-𝗦𝗛𝗔𝗪𝗔𝗭𝗔';
-global.author = '𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓';
-global.wm = '𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓';
-global.titulowm = '𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓';
-global.titulowm2 = `𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓`
-global.igfg = '𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓';
+global.packname = '𝐴 𝐾 𝐼 𝑅 𝐴';
+global.author = '𝑀𝐼𝑇𝑺𝑈𝑅-𝐁𝐎𝐓';
+global.wm = '𝑀𝐼𝑇𝑺𝑈𝑅-𝐁𝐎𝐓';
+global.titulowm = '𝑀𝐼𝑇𝑺𝑈𝑅-𝐁𝐎𝐓';
+global.titulowm2 = `𝑀𝐼𝑇𝑺𝑈𝑅-𝐁𝐎𝐓`
+global.igfg = '𝑀𝐼𝑇𝑺𝑈𝑅-𝐁𝐎𝐓';
 global.wait = '*「 ▓▓▓▓▓▒▒▒▒░░░ 」 صلي على النبي ي حوب 🧞 ...*';
 
 
@@ -100,10 +100,12 @@ global.year = d.toLocaleDateString('en', { year: 'numeric' });
 global.time = d.toLocaleTimeString('en', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
 
 
-global.wm2 = `${dia} ${fecha}\n𝕊ℍ𝔸𝕎𝔸ℤ𝔸-𝔹𝕆𝕋`;
-global.gt = '𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓';
-global.mysticbot = '𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
+global.wm2 = `${dia} ${fecha}\n𝑀𝐼𝑇𝑺𝑈𝑅-𝔹𝕆𝕋`;
+global.gt = '𝑀𝐼𝑇𝑺𝑈𝑅-𝐁𝐎𝐓';
+global.mysticbot = '𝑀𝐼𝑇𝑺𝑈𝑅-𝐁𝐎𝐓';
+global.channel = 'https://whatsapp.com/channel/0029Vn6eInlqIs
+  
+  pDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 
@@ -111,7 +113,7 @@ global.waitt = '*━────── •●• ──────━*\n> [ �
 global.waittt = '*━────── •●• ──────━*\n> [ 🧞 ] جاري التحميل ...\n*━────── •●• ──────━*';
 global.waitttt = '*[*━────── •●• ──────━*\n> [ 🧞 ] جاري التحميل ...\n*━────── •●• ──────━*';
 
-global.nomorown = '201145624848';
+global.nomorown = '201020639057';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 
 global.cmenut = '❖––––––『';
