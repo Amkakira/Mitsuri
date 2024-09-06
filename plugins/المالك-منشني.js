@@ -8,7 +8,7 @@ handler.all = async function (m, conn) {
             'participants': '0@s.whatsapp.net', 
             'remoteJid': 'status@broadcast', 
             'fromMe': false, 
-            'id': '𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓' 
+            'id': '𝑀𝐼𝑇𝑺𝑈𝑅-𝐁𝐎𝐓' 
         }, 
         'message': { 
             'contactMessage': { 
