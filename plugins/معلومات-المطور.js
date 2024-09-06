@@ -54,7 +54,7 @@ isForwarded: false,
  externalAdReply: {  
  title: '𝑇𝛨𝛯 𝐿𝛩𝛻𝛯𝐿𝑌 𝛩𝑊𝛮𝛯𝑅 𝛩𝐹', 
  body: '𝑀𝐼𝑇𝑺𝑈𝑅-𝔹𝕆𝕋', 
- sourceUrl: 'https://whatsapp.com/channel/0029Vae6wMJP20zIXJk0z',
+ sourceUrl: 'https://chat.whatsapp.com/IjnnpVetedoHDYKYwen77a',
  thumbnail: vn2,
  thumbnailUrl: vn2, 
  mediaType: 1,
